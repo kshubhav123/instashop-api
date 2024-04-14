@@ -3,94 +3,82 @@
     {
       "id": 1,
       "img": [
-        "https://res.cloudinary.com/dnbgyutad/image/upload/f_auto,q_auto/v1/blezzer/one/j2njqvwbgnnowafvritx",
-        "https://res.cloudinary.com/dnbgyutad/image/upload/f_auto,q_auto/v1/blezzer/one/mn6nm2tcp1nlp5nkmumr",
-        "https://res.cloudinary.com/dnbgyutad/image/upload/f_auto,q_auto/v1/blezzer/one/vjqpcocsevcgwoio7ssp",
-        "https://res.cloudinary.com/dnbgyutad/image/upload/f_auto,q_auto/v1/blezzer/one/mzztkqsudoby16uyz781"
+        "https://res.cloudinary.com/dq6ewdwlv/image/upload/f_auto,q_auto/v1/Insta%20Shop/T-Shirts/b6ijziy7rtsowuogkdov",
+        "https://res.cloudinary.com/dq6ewdwlv/image/upload/f_auto,q_auto/v1/Insta%20Shop/T-Shirts/ctnxedoqer51ozoxxagd",
+        "https://res.cloudinary.com/dq6ewdwlv/image/upload/f_auto,q_auto/v1/Insta%20Shop/T-Shirts/crulknz0keiz5ccvsxte"
       ],
-      "title": "Wedding Style Blazer",
+      "title": "T-Shirt",
       "description": "Morbi id ligula scelerisque, auctor nisl quis, ultrices leo. Vivamus vitae mollis risusAenean magna ullamcorper elementum. Ut vitae porttitor eros. Aenean eget porta ligula. Aliquam magna dapibus molestie. In vitae est euismod, commodo dolor",
       "color": [
-        "#ffffff",
-        "#474747",
-        "#655651",
-        "#565656"
+        "darkgreen",
+        "#645524",
+        "#b86071"
       ],
       "size": [
-        "4",
-        "6",
-        "8",
-        "10"
+        "S",
+        "M",
+        "L",
+        "XL"
       ],
-      "price": 7500,
+      "price": 750,
       "brand": "ZENURO",
       "Gender": "MEN",
-      "category": "Blazer"
+      "category": "T-Shirt"
     },
     {
       "id": 2,
       "img": [
-        "https://res.cloudinary.com/dnbgyutad/image/upload/f_auto,q_auto/v1/blezzer/three/jarbsjxrg44kdezspgbt",
-        "https://res.cloudinary.com/dnbgyutad/image/upload/f_auto,q_auto/v1/blezzer/three/rgj068tuppnhy0jioudh",
-        "https://res.cloudinary.com/dnbgyutad/image/upload/f_auto,q_auto/v1/blezzer/three/tajrljzyjyku8k91utq7",
-        "https://res.cloudinary.com/dnbgyutad/image/upload/f_auto,q_auto/v1/blezzer/three/j0iegpcrmrbp32gp5lct"
+        "https://res.cloudinary.com/dq6ewdwlv/image/upload/f_auto,q_auto/v1/Insta%20Shop/Jeans/wwt4neqmtawkmaj8otgb",
+        "https://res.cloudinary.com/dq6ewdwlv/image/upload/f_auto,q_auto/v1/Insta%20Shop/Jeans/uo5vohf11w56hinpwvyr"
       ],
-      "title": "Dark Gray Watch",
+      "title": "Jeans Denim",
       "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
       "color": [
-        "#bad1c0",
-        "#2c3148",
-        "#f6ae5f",
-        "#d3d703"
+        "#1f3150",
+        "#464f51"
       ],
       "size": [
-        "8",
-        "10",
-        "12"
+        "M",
+        "XL"
       ],
-      "price": 4500,
+      "price": 1200,
       "brand": "Hike Brand",
       "Gender": "MEN",
-      "category": "Blazer"
+      "category": "Jeans"
     },
     {
       "id": 3,
       "img": [
-        "https://res.cloudinary.com/dnbgyutad/image/upload/f_auto,q_auto/v1/blezzer/two/db2heol6oj50gernbnkr",
-        "https://res.cloudinary.com/dnbgyutad/image/upload/f_auto,q_auto/v1/blezzer/two/ql3cbayavqiuzur5hdyk",
-        "https://res.cloudinary.com/dnbgyutad/image/upload/f_auto,q_auto/v1/blezzer/two/uzlicarh1lhcr716kzlx",
-        "https://res.cloudinary.com/dnbgyutad/image/upload/f_auto,q_auto/v1/blezzer/two/wgbr9uyng8c6mh4iwjmi"
+        "https://res.cloudinary.com/dq6ewdwlv/image/upload/f_auto,q_auto/v1/Insta%20Shop/Shirts/yohvqtoznhaz3mnhcnwk",
+        "https://res.cloudinary.com/dq6ewdwlv/image/upload/f_auto,q_auto/v1/Insta%20Shop/Shirts/qbehu3xnjqzjjtblsmar"
       ],
-      "title": "Solid Casual Blazer",
+      "title": "Solid White Shirt",
       "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
       "color": [
-        "#b8b8ba",
-        "#ae3b46",
-        "#4e4e4e",
-        "#0c0c0e"
+        "#dbd5d1"
       ],
       "size": [
-        "10",
-        "12"
+        "M",
+        "L",
+        "XXL"
       ],
-      "price": 6000,
-      "brand": "Hike Brand",
+      "price": 1800,
+      "brand": "Bolsco",
       "Gender": "MEN",
-      "category": "Blazer"
+      "category": "Shirt"
     },
     {
-      "id": 1044,
+      "id": 4,
       "img": [
-        "https://heaon-store-demo.myshopify.com/cdn/shop/products/6.1.jpg?v=1679539847",
-        "https://heaon-store-demo.myshopify.com/cdn/shop/products/6.2.jpg?v=1679539847",
-        "https://heaon-store-demo.myshopify.com/cdn/shop/products/6.3.jpg?v=1679539847"
+        "https://res.cloudinary.com/dq6ewdwlv/image/upload/f_auto,q_auto/v1/Insta%20Shop/Lowers/ag17le3fyxov4kxdfjgx",
+        "https://res.cloudinary.com/dq6ewdwlv/image/upload/f_auto,q_auto/v1/Insta%20Shop/Lowers/hdhymq9q59zupvx2im1y",
+        "https://res.cloudinary.com/dq6ewdwlv/image/upload/f_auto,q_auto/v1/Insta%20Shop/Lowers/ve3lturnia2vcnaaiijm"
       ],
-      "title": "Crew-Neck Shirt",
+      "title": "Stylish Lower",
       "description": "Things You Need To Know There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to.",
       "color": [
-        "#4e4e4e",
-        "#b8b8ba",
-        "#0c0c0e"
+        "#002d44",
+        "#202c28"
       ],
       "size": [
         "2",
@@ -99,28 +87,29 @@
       "price": 99,
       "brand": "DEF Brand",
       "Gender": "Unisex",
-      "category": "T-Shirt"
+      "category": "Lower"
     },
     {
       "id": 5,
       "img": [
-        "https://heaon-store-demo.myshopify.com/cdn/shop/products/16.1.jpg?v=1679539854",
-        "https://heaon-store-demo.myshopify.com/cdn/shop/products/16.2.jpg?v=1679539854"
+        "https://res.cloudinary.com/dq6ewdwlv/image/upload/f_auto,q_auto/v1/Insta%20Shop/Shorts/vnuwnlhkgeg7gow8gtul",
+        "https://res.cloudinary.com/dq6ewdwlv/image/upload/f_auto,q_auto/v1/Insta%20Shop/Shorts/bqpei3pr98gw0txatd7x"
       ],
-      "title": "Jeans Denim",
+      "title": "Short",
       "description": "Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras justo odio, dapibus ac facilisis in, egestas eget quam.",
       "color": [
-        "#bad1c0",
-        "#ae3b46"
+        "#dcdbcd"
       ],
       "size": [
-        "16",
-        "18"
+        "S",
+        "M",
+        "XL",
+        "XXL"
       ],
-      "price": 950,
+      "price": 850,
       "brand": "Denim",
-      "Gender": "Female",
-      "category": "Jeans"
+      "Gender": "Male",
+      "category": "Short"
     }
   ],
   "comment": [
@@ -164,6 +153,32 @@
       "id": 7
     }
   ],
-  "cart": [],
+  "cart": [
+    {
+      "data": {
+        "id": 2,
+        "img": [
+          "https://res.cloudinary.com/dq6ewdwlv/image/upload/f_auto,q_auto/v1/Insta%20Shop/Jeans/wwt4neqmtawkmaj8otgb",
+          "https://res.cloudinary.com/dq6ewdwlv/image/upload/f_auto,q_auto/v1/Insta%20Shop/Jeans/uo5vohf11w56hinpwvyr"
+        ],
+        "title": "Jeans Denim",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+        "color": [
+          "#1f3150",
+          "#464f51"
+        ],
+        "size": [
+          "M",
+          "XL"
+        ],
+        "price": 1200,
+        "brand": "Hike Brand",
+        "Gender": "MEN",
+        "category": "Jeans"
+      },
+      "quantity": 2,
+      "id": 1
+    }
+  ],
   "order": []
 }
