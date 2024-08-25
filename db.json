@@ -110,6 +110,11 @@
       "brand": "Denim",
       "Gender": "Male",
       "category": "Short"
+    },
+    {
+      "title": "naught Line",
+      "description": "In the case of furios of the words",
+      "id": 6
     }
   ],
   "comment": [
@@ -180,5 +185,178 @@
       "id": 1
     }
   ],
-  "order": []
+  "order": [],
+  "user": [
+    {
+      "name": "decker",
+      "email": "decker@gmail.com",
+      "phone": "8574968574",
+      "password": "Mar@123456",
+      "id": 1
+    },
+    {
+      "name": "lucifer",
+      "email": "lucifer@gmail.com",
+      "phone": "8574968574",
+      "password": "Lower@123",
+      "id": 2
+    },
+    {
+      "name": "clover",
+      "email": "Clover@gmail.com",
+      "phone": "7452415285",
+      "password": "Lower@123",
+      "id": 3
+    },
+    {
+      "name": "clover",
+      "email": "Clover@gmail.com",
+      "phone": "7452415285",
+      "password": "Lower@123",
+      "id": 4
+    },
+    {
+      "name": "Convertable",
+      "email": "Convertable@gmail.com",
+      "phone": "7452415285",
+      "password": "Lower@123",
+      "id": 5
+    },
+    {
+      "name": "Convertable",
+      "email": "Convertable@gmail.com",
+      "phone": "7452415285",
+      "password": "Lower@123",
+      "id": 6
+    },
+    {
+      "name": "Hey",
+      "email": "Hey@gmail.com",
+      "phone": "8574968596",
+      "password": "Upper@123",
+      "id": 7
+    },
+    {
+      "name": "Hel",
+      "email": "hel@gmail.com",
+      "phone": "8596857485",
+      "password": "Kiraya@123",
+      "id": 8
+    },
+    {
+      "name": "Crona",
+      "email": "Crona@gmail.com",
+      "phone": "8574857485",
+      "password": "Open@123",
+      "id": 9
+    },
+    {
+      "name": "Crona",
+      "email": "Crona@gmail.com",
+      "phone": "8574857485",
+      "password": "Open@123",
+      "id": 10
+    },
+    {
+      "name": "Crona",
+      "email": "Crona@gmail.com",
+      "phone": "8574857485",
+      "password": "Open@123",
+      "id": 11
+    },
+    {
+      "name": "Crona",
+      "email": "Crona@gmail.com",
+      "phone": "8574857485",
+      "password": "Open@123",
+      "id": 12
+    },
+    {
+      "name": "asd",
+      "email": "asd@gmail.com",
+      "phone": "7474858574",
+      "password": "Lake@123",
+      "id": 13
+    },
+    {
+      "name": "ui",
+      "email": "ui@gm.com",
+      "phone": "8574524152",
+      "password": "Pop@1234",
+      "id": 14
+    },
+    {
+      "name": "ol",
+      "email": "ol@gm.com",
+      "phone": "9685968596",
+      "password": "Op@12345",
+      "id": 15
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "Openion@123",
+      "id": 16
+    }
+  ],
+  "category": [
+    {
+      "name": "T-shirts",
+      "id": 1
+    },
+    {
+      "name": "Jeans",
+      "id": 2
+    },
+    {
+      "name": "Jackets",
+      "id": 3
+    },
+    {
+      "name": "Sweaters",
+      "id": 4
+    },
+    {
+      "name": "Shorts",
+      "id": 5
+    },
+    {
+      "name": "Hoodies",
+      "id": 6
+    },
+    {
+      "title": "naught Line",
+      "description": "In the case of furios of the words",
+      "id": 7
+    }
+  ],
+  "brand": [
+    {
+      "name": "Puma",
+      "id": 1
+    },
+    {
+      "name": "Addidas",
+      "id": 2
+    },
+    {
+      "name": "Jockey",
+      "id": 3
+    },
+    {
+      "name": "Zara",
+      "id": 4
+    },
+    {
+      "name": "H&M",
+      "id": 5
+    },
+    {
+      "name": "Nike",
+      "id": 6
+    },
+    {
+      "name": "Calvin Klein",
+      "id": 7
+    }
+  ]
 }
